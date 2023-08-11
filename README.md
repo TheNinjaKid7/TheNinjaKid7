@@ -1,7 +1,7 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/ColdSnipez"><img src="https://api.daily.dev/devcards/6bab6120f2b44fceb85368195bb52e9a.png?r=ht8" width="400" alt="Greg's Dev Card"/></a>
 
-<a href="https://app.daily.dev/ColdSnipez"><img src="https://github.com/TheNinjaKid7/TheNinjaKid7/blob/master/devcard.svg" width="400" alt="Greg's Dev Card"/></a>
+<a href="https://app.daily.dev/ColdSnipez"><img src="https://github.com/TheNinjaKid7/TheNinjaKid7/blob/master/devcard.svg" width="400" alt="TheNinjaKid7's Dev Card"/></a>
 
 <!--
 **TheNinjaKid7/TheNinjaKid7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
